@@ -49,3 +49,15 @@ leetcode-solutions/
 ---
 
 > ⚡ Solutions are auto-pushed using [LeetHub 3.0](https://github.com/raphaelheinz/LeetHub-3.0) — no manual commits needed.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/rahulSaxena28/-leetcode/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/rahulSaxena28/-leetcode/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
