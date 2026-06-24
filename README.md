@@ -65,4 +65,8 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/rahulSaxena28/-leetcode/tree/main/0027-remove-element/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/rahulSaxena28/-leetcode/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
