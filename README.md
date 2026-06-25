@@ -69,4 +69,20 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/rahulSaxena28/-leetcode/tree/main/0009-palindrome-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/rahulSaxena28/-leetcode/tree/main/0113-path-sum-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/rahulSaxena28/-leetcode/tree/main/0113-path-sum-ii/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/rahulSaxena28/-leetcode/tree/main/0113-path-sum-ii/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/rahulSaxena28/-leetcode/tree/main/0113-path-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
