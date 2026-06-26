@@ -57,6 +57,7 @@ leetcode-solutions/
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rahulSaxena28/-leetcode/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/rahulSaxena28/-leetcode/tree/main/0027-remove-element/) | Easy |
+| [0055-jump-game](https://github.com/rahulSaxena28/-leetcode/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/rahulSaxena28/-leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/rahulSaxena28/-leetcode/tree/main/0860-lemonade-change/) | Easy |
 ## Hash Table
@@ -98,10 +99,15 @@ leetcode-solutions/
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/rahulSaxena28/-leetcode/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/rahulSaxena28/-leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/rahulSaxena28/-leetcode/tree/main/0860-lemonade-change/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/rahulSaxena28/-leetcode/tree/main/0455-assign-cookies/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/rahulSaxena28/-leetcode/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
