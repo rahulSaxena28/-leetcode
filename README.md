@@ -57,6 +57,7 @@ leetcode-solutions/
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rahulSaxena28/-leetcode/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/rahulSaxena28/-leetcode/tree/main/0027-remove-element/) | Easy |
+| [0455-assign-cookies](https://github.com/rahulSaxena28/-leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/rahulSaxena28/-leetcode/tree/main/0027-remove-element/) | Easy |
+| [0455-assign-cookies](https://github.com/rahulSaxena28/-leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +94,12 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/rahulSaxena28/-leetcode/tree/main/0112-path-sum/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/rahulSaxena28/-leetcode/tree/main/0455-assign-cookies/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/rahulSaxena28/-leetcode/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
