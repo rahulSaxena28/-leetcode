@@ -112,8 +112,10 @@ leetcode-solutions/
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rahulSaxena28/-leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0055-jump-game](https://github.com/rahulSaxena28/-leetcode/tree/main/0055-jump-game/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/rahulSaxena28/-leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rahulSaxena28/-leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/rahulSaxena28/-leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 <!---LeetCode Topics End-->
