@@ -58,6 +58,7 @@ leetcode-solutions/
 | [0001-two-sum](https://github.com/rahulSaxena28/-leetcode/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/rahulSaxena28/-leetcode/tree/main/0027-remove-element/) | Easy |
 | [0055-jump-game](https://github.com/rahulSaxena28/-leetcode/tree/main/0055-jump-game/) | Medium |
+| [0283-move-zeroes](https://github.com/rahulSaxena28/-leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/rahulSaxena28/-leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/rahulSaxena28/-leetcode/tree/main/0860-lemonade-change/) | Easy |
 ## Hash Table
@@ -69,6 +70,7 @@ leetcode-solutions/
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rahulSaxena28/-leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0027-remove-element](https://github.com/rahulSaxena28/-leetcode/tree/main/0027-remove-element/) | Easy |
+| [0283-move-zeroes](https://github.com/rahulSaxena28/-leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/rahulSaxena28/-leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Math
 | Problem Name | Difficulty |
