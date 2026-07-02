@@ -57,6 +57,7 @@ leetcode-solutions/
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rahulSaxena28/-leetcode/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/rahulSaxena28/-leetcode/tree/main/0027-remove-element/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rahulSaxena28/-leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0055-jump-game](https://github.com/rahulSaxena28/-leetcode/tree/main/0055-jump-game/) | Medium |
 | [0283-move-zeroes](https://github.com/rahulSaxena28/-leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/rahulSaxena28/-leetcode/tree/main/0455-assign-cookies/) | Easy |
@@ -120,4 +121,8 @@ leetcode-solutions/
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rahulSaxena28/-leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/rahulSaxena28/-leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rahulSaxena28/-leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
