@@ -65,6 +65,7 @@ leetcode-solutions/
 | [0455-assign-cookies](https://github.com/rahulSaxena28/-leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/rahulSaxena28/-leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulSaxena28/-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2580-count-ways-to-group-overlapping-ranges](https://github.com/rahulSaxena28/-leetcode/tree/main/2580-count-ways-to-group-overlapping-ranges/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +117,7 @@ leetcode-solutions/
 | [0056-merge-intervals](https://github.com/rahulSaxena28/-leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/rahulSaxena28/-leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulSaxena28/-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2580-count-ways-to-group-overlapping-ranges](https://github.com/rahulSaxena28/-leetcode/tree/main/2580-count-ways-to-group-overlapping-ranges/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
