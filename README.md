@@ -60,6 +60,7 @@ leetcode-solutions/
 | [0033-search-in-rotated-sorted-array](https://github.com/rahulSaxena28/-leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rahulSaxena28/-leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0055-jump-game](https://github.com/rahulSaxena28/-leetcode/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/rahulSaxena28/-leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0283-move-zeroes](https://github.com/rahulSaxena28/-leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/rahulSaxena28/-leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/rahulSaxena28/-leetcode/tree/main/0860-lemonade-change/) | Easy |
@@ -112,6 +113,7 @@ leetcode-solutions/
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/rahulSaxena28/-leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/rahulSaxena28/-leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulSaxena28/-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Dynamic Programming
