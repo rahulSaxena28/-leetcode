@@ -118,6 +118,7 @@ leetcode-solutions/
 | [0455-assign-cookies](https://github.com/rahulSaxena28/-leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulSaxena28/-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/rahulSaxena28/-leetcode/tree/main/2580-count-ways-to-group-overlapping-ranges/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rahulSaxena28/-leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +130,7 @@ leetcode-solutions/
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rahulSaxena28/-leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/rahulSaxena28/-leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rahulSaxena28/-leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,4 +140,8 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulSaxena28/-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rahulSaxena28/-leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
