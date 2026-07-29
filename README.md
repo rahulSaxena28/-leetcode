@@ -144,4 +144,8 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rahulSaxena28/-leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/rahulSaxena28/-leetcode/tree/main/0440-k-th-smallest-in-lexicographical-order/) | Hard |
 <!---LeetCode Topics End-->
