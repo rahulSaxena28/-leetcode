@@ -81,6 +81,7 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/rahulSaxena28/-leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0062-unique-paths](https://github.com/rahulSaxena28/-leetcode/tree/main/0062-unique-paths/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rahulSaxena28/-leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -124,6 +125,7 @@ leetcode-solutions/
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rahulSaxena28/-leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0055-jump-game](https://github.com/rahulSaxena28/-leetcode/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/rahulSaxena28/-leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/rahulSaxena28/-leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -148,4 +150,8 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/rahulSaxena28/-leetcode/tree/main/0440-k-th-smallest-in-lexicographical-order/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/rahulSaxena28/-leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
