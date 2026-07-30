@@ -61,6 +61,7 @@ leetcode-solutions/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rahulSaxena28/-leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0055-jump-game](https://github.com/rahulSaxena28/-leetcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/rahulSaxena28/-leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0064-minimum-path-sum](https://github.com/rahulSaxena28/-leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/rahulSaxena28/-leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/rahulSaxena28/-leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/rahulSaxena28/-leetcode/tree/main/0860-lemonade-change/) | Easy |
@@ -126,6 +127,7 @@ leetcode-solutions/
 | [0005-longest-palindromic-substring](https://github.com/rahulSaxena28/-leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0055-jump-game](https://github.com/rahulSaxena28/-leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/rahulSaxena28/-leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/rahulSaxena28/-leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/rahulSaxena28/-leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -154,4 +156,8 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/rahulSaxena28/-leetcode/tree/main/0062-unique-paths/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/rahulSaxena28/-leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 <!---LeetCode Topics End-->
