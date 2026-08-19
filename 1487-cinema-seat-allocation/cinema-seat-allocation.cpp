@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
-        map<int, vector<int>> mp;
+        unordered_map<int, vector<int>> mp;
 
         for (auto it : reservedSeats) {
             mp[it[0]].push_back(it[1]);
